@@ -1,5 +1,7 @@
 # HomeWise AI 🏠
 
+![HomeWise AI demo](assets/demo.png)
+
 HomeWise AI is a voice-enabled property assistant that helps users search property listings and check rent and availability using natural language.
 
 Users can ask questions in English, Hindi, or Hinglish. The backend uses semantic similarity to identify the user's intent and retrieve relevant information from a property dataset.
